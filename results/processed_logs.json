@@ -1,0 +1,200 @@
+[
+    {
+        "failed": 0,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.001,
+        "anomaly": 1,
+        "anomaly_score": 0.0,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.003,
+        "anomaly": 1,
+        "anomaly_score": 0.1553038879495232,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.005,
+        "anomaly": 1,
+        "anomaly_score": 0.1553038879495232,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.008,
+        "anomaly": 1,
+        "anomaly_score": 0.1553038879495232,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.012,
+        "anomaly": 1,
+        "anomaly_score": 0.1553038879495232,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 1,
+        "attempt_score": 0.02,
+        "anomaly": 1,
+        "anomaly_score": 0.04427642222406414,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 1,
+        "attempt_score": 0.025,
+        "anomaly": 1,
+        "anomaly_score": 0.04427642222406414,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 0,
+        "login": 0,
+        "is_admin": 0,
+        "attempt_score": 0.001,
+        "anomaly": -1,
+        "anomaly_score": -0.10132818534796784,
+        "threat_level": "SUSPICIOUS"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.03,
+        "anomaly": 1,
+        "anomaly_score": 0.15690781106721835,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 1,
+        "attempt_score": 0.04,
+        "anomaly": 1,
+        "anomaly_score": 0.04795658759579147,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.05,
+        "anomaly": 1,
+        "anomaly_score": 0.16199542338289158,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.06,
+        "anomaly": 1,
+        "anomaly_score": 0.16285931007603333,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.09,
+        "anomaly": 1,
+        "anomaly_score": 0.17721832293766604,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.13,
+        "anomaly": 1,
+        "anomaly_score": 0.17736129108416032,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.18,
+        "anomaly": 1,
+        "anomaly_score": 0.18069204349701007,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.08,
+        "anomaly": 1,
+        "anomaly_score": 0.16612920828246858,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.08,
+        "anomaly": 1,
+        "anomaly_score": 0.16612920828246858,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.5,
+        "anomaly": 1,
+        "anomaly_score": 0.13255729145987621,
+        "threat_level": "SUSPICIOUS"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.2,
+        "anomaly": 1,
+        "anomaly_score": 0.17457003820289024,
+        "threat_level": "NORMAL"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.25,
+        "anomaly": 1,
+        "anomaly_score": 0.16945220043969472,
+        "threat_level": "SUSPICIOUS"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 0.3,
+        "anomaly": 1,
+        "anomaly_score": 0.16516903693721657,
+        "threat_level": "SUSPICIOUS"
+    },
+    {
+        "failed": 1,
+        "login": 1,
+        "is_admin": 0,
+        "attempt_score": 1.0,
+        "anomaly": 1,
+        "anomaly_score": 0.024772087094659057,
+        "threat_level": "ATTACK"
+    }
+]

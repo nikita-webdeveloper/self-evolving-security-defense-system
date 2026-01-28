@@ -1,0 +1,23 @@
+timestamp,user,ip,action,status,attempts
+2026-01-20 09:01:12,user1,192.168.1.10,login,success,1
+2026-01-20 09:02:14,user2,192.168.1.12,login,failed,3
+2026-01-20 09:02:20,user2,192.168.1.12,login,failed,5
+2026-01-20 09:03:01,user3,10.0.0.45,login,failed,8
+2026-01-20 09:03:15,user3,10.0.0.45,login,failed,12
+2026-01-20 09:04:30,admin,203.0.113.77,login,failed,20
+2026-01-20 09:05:00,admin,203.0.113.77,login,failed,25
+2026-01-20 09:06:10,user4,192.168.1.15,file_access,success,1
+2026-01-20 09:07:22,user5,198.51.100.23,login,failed,30
+2026-01-20 10:15:40,admin,203.0.113.77,login,failed,40
+2026-01-20 10:16:10,unknown,8.8.8.8,login,failed,50
+2026-01-20 11:30:00,hacker,91.240.118.172,login,failed,60
+2026-01-20 11:30:05,hacker,91.240.118.172,login,failed,90
+2026-01-20 11:30:10,hacker,91.240.118.172,login,failed,130
+2026-01-20 11:30:15,hacker,91.240.118.172,login,failed,180
+2026-01-20 11:30:00,unknown,8.8.8.8,login,failed,80
+2026-01-20 11:00:00,unknown,8.8.8.8,login,failed,80
+2026-01-20 12:00:00,hacker,5.5.5.5,login,failed,500
+2026-01-20 12:00:00,hacker,1.2.3.4,login,failed,200
+2026-01-20 12:00:02,hacker,1.2.3.4,login,failed,250
+2026-01-20 12:00:05,hacker,1.2.3.4,login,failed,300
+2026-01-20 13:00:00,hacker,9.9.9.9,login,failed,1000
